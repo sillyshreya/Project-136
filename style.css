@@ -1,0 +1,29 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+.header {
+    width:100%;
+    margin : 0px;
+    font-size:large;
+}
+p{
+    color:purple;
+    margin-bottom: 0px;
+    font-size:small;
+}
+.object_name{
+    font-size:15px;
+    font-weight:bold;
+}
+
+
+
+
+
+
+
+
+
+
+
